@@ -1,0 +1,25 @@
+.body_background {
+    background-image: url("anime.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.div1 {
+    background: palevioletred;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+.div2 {
+    background-color: teal;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player_input,
+#player_input2 {
+    display: inline-block;
+    margin-left: 20px;
+}
